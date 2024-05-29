@@ -31,6 +31,30 @@
         { 
             "ParodyRef": "WybiegElżbietek",
             "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "4mela",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "SPB",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "Telecipers",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "FNA",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "WybiegElżbietek2",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "WybiegElżbietek",
+            "YoutubeLink": ""
         }
     ]
 }
