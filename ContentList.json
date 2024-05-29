@@ -1,0 +1,36 @@
+{
+    "News": 
+    {
+        "Image": "WybiegElżbietek",
+        "ImageType": "Parody",
+        "Label": "Cipeczka",
+        "Info": "Poka poka sowe"
+    },
+    "ParodyList":
+    [
+        { 
+            "ParodyRef": "4mela",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "SPB",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "Telecipers",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "FNA",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "WybiegElżbietek2",
+            "YoutubeLink": ""
+        },
+        { 
+            "ParodyRef": "WybiegElżbietek",
+            "YoutubeLink": ""
+        }
+    ]
+}
