@@ -1,60 +1,128 @@
 {
     "News": 
     {
-        "Image": "WybiegElżbietek",
-        "ImageType": "Parody",
-        "Label": "Cipeczka",
-        "Info": "Poka poka sowe"
+        "Image": "PokaSuta",
+        "ImageType": "SmallParody",
+        "Label": "Najnowsza krótka parodia!",
+        "Info": "Poka poka suta!\nPoka poka suta mi!"
     },
     "ParodyList":
     [
         { 
             "ParodyRef": "4mela",
-            "YoutubeLink": ""
+            "YoutubeLink": "",
+
+            "MinAge": "12+",
+            "Genre": "Horror, Komedia",
+            "Production": "Elflix Polska",
+            "Premiere": "14 marca 2023",
+            "Duration": "23 minuty",
+            "Deceiption": "Elżbietka ma dość zajmowania się Modeleczką więc postanawia stworzyć robota który zrobi wszystko za nią aby mogła w spokoju lizać suty. Jednak 4mela dowiaduje się więcej o świecie i zaczyna sie buntować.",
+
+            "Trailers": [
+                {
+                    "Name": "Zwiastun",
+                    "Thumbnail": "4melaTrailer",
+                    "Link": ""
+                }
+            ]
         },
         { 
             "ParodyRef": "SPB",
-            "YoutubeLink": ""
+            "YoutubeLink": "",
+
+            "MinAge": "12+",
+            "Genre": "Komedia",
+            "Production": "Elflix Polska",
+            "Premiere": "1 luty 2023",
+            "Duration": "20 minut",
+            "Deceiption": "Do szkoły dołącza nowy uczeń Aleksandra Lakupa. Jedna z normalnych mieszkańców Białołęki. W szkole poznaje 4 nowych przyjaciół i za ich pomocą udaje jej się przyzwyczaić do Elżbietki i do reszty nauczycieli.",
+            
+            "Trailers": [
+                {
+                    "Name": "Zwiastun",
+                    "Thumbnail": "SPBTrailer",
+                    "Link": ""
+                }
+            ]
         },
         { 
             "ParodyRef": "Telecipers",
-            "YoutubeLink": ""
+            "YoutubeLink": "",
+
+            "MinAge": "12+",
+            "Genre": "Dokumentalny",
+            "Production": "Elflix Polska",
+            "Premiere": "31 sierpnia 2022",
+            "Duration": "3 minuty",
+            "Deceiption": "Brak opisu..."
         },
         { 
             "ParodyRef": "FNA",
-            "YoutubeLink": ""
+            "YoutubeLink": "",
+
+            "MinAge": "12+",
+            "Genre": "Horror, Komedia",
+            "Production": "Elflix Polska",
+            "Premiere": "15 kwietnia 2022",
+            "Duration": "22 minut",
+            "Deceiption": "Elżbietka obużona faktem że jest dyrektorem jednej ze szkół które nie posiadają animatroników więc kupuje ich najdroższe wersje. Gdy nadszedł koniec dnia animatroniki zmieniły się w dzieci które wywaliła do ośrodka.",
+            
+            "Trailers": [
+                {
+                    "Name": "Launch Trailer",
+                    "Thumbnail": "FNATrailer2",
+                    "Link": ""
+                },
+                {
+                    "Name": "Zwiastun zapowiadający",
+                    "Thumbnail": "FNATrailer1",
+                    "Link": ""
+                }
+            ]
         },
         { 
             "ParodyRef": "WybiegElżbietek2",
-            "YoutubeLink": ""
+            "YoutubeLink": "",
+
+            "MinAge": "12+",
+            "Genre": "Horror, Komedia",
+            "Production": "Elflix Polska",
+            "Premiere": "10 luty 2022",
+            "Duration": "17 minut",
+            "Deceiption": "Elżbietka wchodząc pierwszy raz po karierze modeleczki do swojej szkoły spotyka tam Kelnerke która kiedyś goniła ją z nożem. Na początku było wszystko okej ale później było jeszcze gorzej…",
+            
+            "Trailers": [
+                {
+                    "Name": "Zwiastun",
+                    "Thumbnail": "WybiegElżbietek2Trailer",
+                    "Link": ""
+                }
+            ]
         },
         { 
             "ParodyRef": "WybiegElżbietek",
-            "YoutubeLink": ""
-        },
-        { 
-            "ParodyRef": "4mela",
-            "YoutubeLink": ""
-        },
-        { 
-            "ParodyRef": "SPB",
-            "YoutubeLink": ""
-        },
-        { 
-            "ParodyRef": "Telecipers",
-            "YoutubeLink": ""
-        },
-        { 
-            "ParodyRef": "FNA",
-            "YoutubeLink": ""
-        },
-        { 
-            "ParodyRef": "WybiegElżbietek2",
-            "YoutubeLink": ""
-        },
-        { 
-            "ParodyRef": "WybiegElżbietek",
-            "YoutubeLink": ""
+            "YoutubeLink": "",
+
+            "MinAge": "12+",
+            "Genre": "Dramat, komedia",
+            "Production": "Elflix Polska",
+            "Premiere": "1 luty 2022",
+            "Duration": "19 minut",
+            "Deceiption": "Elżbietka to dyrektor szkoły który ma już dość pracy w swojej szkole więc postanawia zacząć nową karierę modeleczki. Mimo wielu przeszkód nie poddaje się i za wszelką cenę dąży do celu. Dzięki tej karierze jej życie znacznie się zmieniło.",
+            
+            "Trailers": [
+                {
+                    "Name": "Zwiastun",
+                    "Thumbnail": "WybiegElżbietekTrailer2",
+                    "Link": ""
+                },
+                {
+                    "Name": "Zwiastun zapowiadający",
+                    "Thumbnail": "WybiegElżbietekTrailer1",
+                    "Link": ""
+                }
+            ]
         }
     ]
 }
