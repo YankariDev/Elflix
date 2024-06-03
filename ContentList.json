@@ -10,7 +10,7 @@
     [
         { 
             "ParodyRef": "4mela",
-            "YoutubeLink": "",
+            "YoutubeLink": "https://youtu.be/Ql2IZ3YIrPA",
 
             "MinAge": "12+",
             "Genre": "Horror, Komedia",
@@ -23,13 +23,13 @@
                 {
                     "Name": "Zwiastun",
                     "Thumbnail": "4melaTrailer",
-                    "Link": ""
+                    "Link": "https://youtu.be/AYcgex8YvGs"
                 }
             ]
         },
         { 
             "ParodyRef": "SPB",
-            "YoutubeLink": "",
+            "YoutubeLink": "https://youtu.be/HjuJ83aP3AA",
 
             "MinAge": "12+",
             "Genre": "Komedia",
@@ -42,13 +42,13 @@
                 {
                     "Name": "Zwiastun",
                     "Thumbnail": "SPBTrailer",
-                    "Link": ""
+                    "Link": "https://youtu.be/qQY30ysi1Ck"
                 }
             ]
         },
         { 
             "ParodyRef": "Telecipers",
-            "YoutubeLink": "",
+            "YoutubeLink": "https://youtu.be/a8brzf_malQ",
 
             "MinAge": "12+",
             "Genre": "Dokumentalny",
@@ -59,7 +59,7 @@
         },
         { 
             "ParodyRef": "FNA",
-            "YoutubeLink": "",
+            "YoutubeLink": "https://youtu.be/Rx04oQ1A7lU",
 
             "MinAge": "12+",
             "Genre": "Horror, Komedia",
@@ -72,18 +72,18 @@
                 {
                     "Name": "Launch Trailer",
                     "Thumbnail": "FNATrailer2",
-                    "Link": ""
+                    "Link": "https://youtu.be/TgDo0KDbx3g"
                 },
                 {
                     "Name": "Zwiastun zapowiadający",
                     "Thumbnail": "FNATrailer1",
-                    "Link": ""
+                    "Link": "https://youtu.be/-EBwz1zMZFs"
                 }
             ]
         },
         { 
             "ParodyRef": "WybiegElżbietek2",
-            "YoutubeLink": "",
+            "YoutubeLink": "https://youtu.be/qK5dQeZNTds",
 
             "MinAge": "12+",
             "Genre": "Horror, Komedia",
@@ -96,13 +96,13 @@
                 {
                     "Name": "Zwiastun",
                     "Thumbnail": "WybiegElżbietek2Trailer",
-                    "Link": ""
+                    "Link": "https://youtu.be/z054y5I1gPs"
                 }
             ]
         },
         { 
             "ParodyRef": "WybiegElżbietek",
-            "YoutubeLink": "",
+            "YoutubeLink": "https://youtu.be/8aiuxV7OwX4",
 
             "MinAge": "12+",
             "Genre": "Dramat, komedia",
@@ -115,14 +115,60 @@
                 {
                     "Name": "Zwiastun",
                     "Thumbnail": "WybiegElżbietekTrailer2",
-                    "Link": ""
+                    "Link": "https://youtu.be/bYw-_BE7VRc"
                 },
                 {
                     "Name": "Zwiastun zapowiadający",
                     "Thumbnail": "WybiegElżbietekTrailer1",
-                    "Link": ""
+                    "Link": "https://youtu.be/FXFHL_nBA3A"
                 }
             ]
+        }
+    ],
+    "SmallParodyList": [
+        {
+            "Name": "Poka Suta",
+            "Link": "https://youtu.be/yiZsgpCMbvg",
+            "SmallParodyRef": "PokaSuta"
+        },
+        {
+            "Name": "co sie suha",
+            "Link": "https://youtu.be/9z_8hziw_CU",
+            "SmallParodyRef": "CoSieSuha"
+        },
+        {
+            "Name": "Sutkowizja",
+            "Link": "https://youtu.be/EpOHP38Tb3A",
+            "SmallParodyRef": "Sutkowizja"
+        },
+        {
+            "Name": "Elżbietka w ciąży",
+            "Link": "https://youtu.be/UcyPHb9iLfw",
+            "SmallParodyRef": "ElżbietkaWCiąży"
+        },
+        {
+            "Name": "(nie) koniec szkoły",
+            "Link": "https://youtu.be/iJxYwQz8BCI",
+            "SmallParodyRef": "NieKoniecSzkoły"
+        },
+        {
+            "Name": "Przepraszą",
+            "Link": "https://youtu.be/rS3nhTLBR8A",
+            "SmallParodyRef": "Przepraszą"
+        }
+    ],
+    "MusicList": [
+        {
+            "Name": "Zjebuska",
+            "Ref": "Zjebuska",
+            "YoutubeLink": "https://youtu.be/a_x6smIv-Vs",
+            "MusicDlLink": "https://yankaridev.github.io/Elflix/Music/Zjebuska.mp3"
+        },
+        {
+            "Name": "Elżbietka Film",
+            "Ref": "ElżbietkaFilm",
+            "YoutubeLink": "https://youtu.be/uR3NuVbjqjo",
+            "MusicDlLink": "https://yankaridev.github.io/Elflix/Music/ElżbietkaFilm.mp3"
         }
     ]
 }
